@@ -1,10 +1,10 @@
 {
-  "name": "donejs-cli",
-  "version": "0.9.5",
-  "description": "The command line interface to your DoneJS application.",
+  "name": "dssrv-cli",
+  "version": "1.0.5",
+  "description": "The command line interface to your DIREKTSPEED Server Installation.",
   "main": "lib/utils",
   "bin": {
-    "donejs": "./bin/donejs"
+    "dssrv": "./bin/dssrv"
   },
   "scripts": {
     "test": "npm run jshint && npm run mocha",
@@ -29,7 +29,7 @@
     "StealJS",
     "DoneJS"
   ],
-  "author": "Bitovi",
+  "author": "Frank Lemanschik",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/donejs/cli/issues"
