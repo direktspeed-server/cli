@@ -5,7 +5,7 @@
   "main": "lib/utils",
   "bin": {
     "dssrv": "./bin/dssrv",
-    "donejs": "./bin/donejs"
+    "dssrv-cli": "./bin/dssrv"
   },
   "scripts": {
     "test": "npm run jshint && npm run mocha",
@@ -59,6 +59,30 @@
     "steal-platform": "0.0.4",
     "yeoman-environment": "^1.2.7",
     "yeoman-generator": "^0.22.3"
+  },
+  "donejs": {
+    "dependencies": {
+      "can": "^2.3.16",
+      "can-connect": "^0.5.0",
+      "can-zone": "^0.5.0",
+      "done-serve": "^0.2.0",
+      "done-autorender": "^0.8.0",
+      "done-component": "^0.4.0",
+      "done-css": "^2.0.2",
+      "generator-dssrv": "^0.9.0",
+      "jquery": "~2.2.1",
+      "steal": "^0.16.0"
+    },
+    "devDependencies": {
+      "documentjs": "^0.4.2",
+      "donejs-deploy": "^0.4.0",
+      "funcunit": "~3.0.0",
+      "steal-qunit": "^0.1.1",
+      "steal-tools": "git+https://github.com/stealjs/steal-tools",
+      "testee": "^0.2.4",
+      "dssrv-cli": "^1.3.4",
+      "can-fixture": "^0.1.2"
+    }
   },
   "dssrv": {
     "dependencies": {

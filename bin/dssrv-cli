@@ -17,4 +17,3 @@ utils.projectRoot()
   .catch(function(err) {
     throw err;
   });
-
