@@ -1,6 +1,6 @@
 {
   "name": "dssrv-cli",
-  "version": "1.4.10",
+  "version": "1.4.11",
   "description": "The command line interface to your DIREKTSPEED Server Installation.",
   "main": "lib/utils",
   "bin": {
