@@ -4,7 +4,6 @@
   "description": "The command line interface to your DIREKTSPEED Server Installation.",
   "main": "lib/utils",
   "bin": {
-    "dssrv": "./bin/dssrv",
     "dssrv-cli": "./bin/dssrv"
   },
   "scripts": {
