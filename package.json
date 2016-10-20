@@ -4,7 +4,7 @@
   "description": "The command line interface to your DIREKTSPEED Server Installation.",
   "main": "lib/utils",
   "bin": {
-    "dssrv-cli": "./bin/dssrv"
+    "dssrv-cli": "./bin/dssrv-cli"
   },
   "scripts": {
     "test": "npm run jshint && npm run mocha",
