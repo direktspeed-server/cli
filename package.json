@@ -39,7 +39,7 @@
     "concat-stream": "1.6.0",
     "coveralls-send": "0.0.2",
     "cross-spawn": "5.1.0",
-    "documentjs": "0.4.4",
+    "documentjs": "0.5.1",
     "engine-dependencies": "0.2.11",
     "is-ci": "1.0.10",
     "istanbul": "0.4.5",
