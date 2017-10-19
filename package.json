@@ -54,7 +54,7 @@
     "cross-spawn": "^5.0.1",
     "debug": "^3.0.0",
     "mkdirp": "^0.5.1",
-    "q": "^1.4.1",
+    "q": "^1.5.1",
     "steal-platform": "0.0.4",
     "yeoman-environment": "^2.0.0",
     "yeoman-generator": "^2.0.0"
