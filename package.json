@@ -56,7 +56,7 @@
     "mkdirp": "^0.5.1",
     "q": "^1.4.1",
     "steal-platform": "0.0.4",
-    "yeoman-environment": "^2.0.0",
+    "yeoman-environment": "^2.3.3",
     "yeoman-generator": "^2.0.0"
   },
   "donejs": {
