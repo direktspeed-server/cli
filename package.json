@@ -57,7 +57,7 @@
     "q": "^1.4.1",
     "steal-platform": "0.0.4",
     "yeoman-environment": "^2.0.0",
-    "yeoman-generator": "^2.0.0"
+    "yeoman-generator": "^4.5.0"
   },
   "donejs": {
     "dependencies": {
