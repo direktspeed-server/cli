@@ -41,7 +41,7 @@
     "cross-spawn": "5.1.0",
     "documentjs": "0.5.1",
     "engine-dependencies": "0.2.11",
-    "is-ci": "1.0.10",
+    "is-ci": "1.2.1",
     "istanbul": "0.4.5",
     "jshint": "2.9.5",
     "mocha": "8.2.1",
