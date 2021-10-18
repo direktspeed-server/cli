@@ -7,5 +7,5 @@ node_js:
   - "0.12"
   - "node"
   - "iojs"
-  - "4.0"
+  - "4.9"
 script: npm run coverage:upload
